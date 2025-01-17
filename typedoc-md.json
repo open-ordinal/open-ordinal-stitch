@@ -1,0 +1,39 @@
+{
+    "$schema": "https://typedoc-plugin-markdown.org/schema.json",
+    "sort": [
+        "source-order"
+    ],
+    "membersWithOwnFile": [
+        "Enum",
+        "Variable",
+        "Function",
+        "Class",
+        "Interface",
+        "TypeAlias"
+    ],
+    "excludeExternals": true,
+    "entryPoints": [
+        "src/cli/OOST.ts",
+        "src/browser/OOST.ts"
+    ],
+    "entryPointStrategy": "resolve",
+    "alwaysCreateEntryPointModule": true,
+    "outputFileStrategy": "members",
+    "hidePageHeader": true,
+    "hideGroupHeadings": true,
+    "textContentMappings": {
+        "breadcrumbs.home": "Open Ordial Stitch"
+    },
+    "readme": "src/docs/Introduction.md",
+    "projectDocuments": [
+        "src/docs/Introduction.md",
+        "ChangeLog.md",
+    ],
+    "out": "docs/markdown",
+    "name": "Stitch",
+    "mergeReadme": true,
+    "plugin": [
+        "typedoc-plugin-markdown",
+        "typedoc-plugin-mermaid"
+    ]
+}
