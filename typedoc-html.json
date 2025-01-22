@@ -46,6 +46,7 @@
     "readme": "src/docs/Introduction.md",
     "projectDocuments": [
         "src/docs/Introduction.md",
+        "src/docs/Inscriptions.md",
         "ChangeLog.md",
     ],
     "plugin": [
