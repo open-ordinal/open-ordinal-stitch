@@ -4,7 +4,7 @@
 
 > **split**(`options`): `Promise`\<`string`[]\>
 
-Defined in: cli/OOST.ts:77
+Defined in: [cli/OOST.ts:77](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/cli/OOST.ts#L77)
 
 Splits a file into smaller parts based on the provided options.
 

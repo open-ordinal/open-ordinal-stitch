@@ -4,7 +4,7 @@
 
 > **getChildrenAll**(`inscriptionId`, `baseUrl`?): `Promise`\<`string`[]\>
 
-Defined in: browser/OOST.Core.ts:465
+Defined in: [browser/OOST.Core.ts:465](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/browser/OOST.Core.ts#L465)
 
 Asynchronously fetches all the children of a given inscription.
 

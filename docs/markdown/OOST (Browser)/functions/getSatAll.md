@@ -4,7 +4,7 @@
 
 > **getSatAll**(`sat`, `baseUrl`?): `Promise`\<`string`[]\>
 
-Defined in: browser/OOST.Core.ts:384
+Defined in: [browser/OOST.Core.ts:384](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/browser/OOST.Core.ts#L384)
 
 Asynchronously fetches all the inscriptions on a given SAT.
 The function fetches the inscriptions in pages and continues fetching until there are no more pages.

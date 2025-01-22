@@ -4,11 +4,27 @@
 
 Open Ordinal Stitch is a on-chain JavaScript library and command line tool designed to handle sizable binary data. It addresses the challenge posed by the ~400KB limit enforced by Bitcoin miners, enabling users to split binary files into smaller, manageable parts and stitch them back together seamlessly.
 
+The Open Ordinal Stitch has an on-chain resource (for use in ordinals), inscribed on sat [1690364215914349](https://ordinals.com/sat/1690364215914349).
+
+## Parts
+
 - **JavaScript Library/Module:** A general library you can integrate into own projects and a on-chain stitcher for use in ordinals.
 
 - **On-Chain Library:** Extend the functionality to the blockchain, allowing stitching directly on-chain in your ordinals.
 
 - **Command Line Tool:** Use the command line interface for quick and easy binary file operations without the need for additional coding.
+
+## Install CLI tool globally
+
+```sh
+npm install -g @open-ordinal/stitch
+```
+
+## Install package in a project
+
+```sh
+npm install @open-ordinal/stitch
+```
 
 ## Split Command
 
@@ -202,6 +218,7 @@ Ordinal HTML Example
 ## Documents
 
 - [Introduction](documents/Introduction.md)
+- [Inscriptions](documents/Inscriptions.md)
 - [ChangeLog](documents/ChangeLog.md)
 
 ## Modules

@@ -2,7 +2,7 @@
 
 # Class: SplitOptions
 
-Defined in: cli/models/SplitOptions.ts:6
+Defined in: [cli/models/SplitOptions.ts:6](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/cli/models/SplitOptions.ts#L6)
 
 Represents the options for split operations.
 
@@ -12,7 +12,7 @@ Represents the options for split operations.
 
 > **new SplitOptions**(`options`): [`SplitOptions`](SplitOptions.md)
 
-Defined in: cli/models/SplitOptions.ts:16
+Defined in: [cli/models/SplitOptions.ts:16](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/cli/models/SplitOptions.ts#L16)
 
 Creates an instance of SplitOptions.
 
@@ -34,7 +34,7 @@ An object containing the input file path, output file path, and maximum size for
 
 > `optional` **input**: `string`
 
-Defined in: cli/models/SplitOptions.ts:7
+Defined in: [cli/models/SplitOptions.ts:7](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/cli/models/SplitOptions.ts#L7)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: cli/models/SplitOptions.ts:7
 
 > `optional` **output**: `string`
 
-Defined in: cli/models/SplitOptions.ts:8
+Defined in: [cli/models/SplitOptions.ts:8](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/cli/models/SplitOptions.ts#L8)
 
 ***
 
@@ -50,4 +50,4 @@ Defined in: cli/models/SplitOptions.ts:8
 
 > **maxSize**: `number`
 
-Defined in: cli/models/SplitOptions.ts:9
+Defined in: [cli/models/SplitOptions.ts:9](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/cli/models/SplitOptions.ts#L9)

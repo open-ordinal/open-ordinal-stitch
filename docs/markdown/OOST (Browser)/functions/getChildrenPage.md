@@ -4,7 +4,7 @@
 
 > **getChildrenPage**(`inscriptionId`, `page`, `baseUrl`?): `Promise`\<`any`\>
 
-Defined in: browser/OOST.Core.ts:423
+Defined in: [browser/OOST.Core.ts:423](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/browser/OOST.Core.ts#L423)
 
 Asynchronously fetches the children of a given inscription.
 If no inscription ID is provided, it defaults to using the ID obtained from `getId()`.

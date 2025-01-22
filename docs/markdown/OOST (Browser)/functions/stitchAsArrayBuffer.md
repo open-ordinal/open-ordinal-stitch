@@ -4,7 +4,7 @@
 
 > **stitchAsArrayBuffer**(`options`): `Promise`\<`ArrayBuffer` \| `undefined`\>
 
-Defined in: browser/OOST.Core.ts:39
+Defined in: [browser/OOST.Core.ts:39](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/browser/OOST.Core.ts#L39)
 
 Stitches the provided options into a buffer.
 
