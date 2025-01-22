@@ -2,7 +2,7 @@
 
 # Class: StitchOptions
 
-Defined in: [browser/models/StitchOptions.ts:6](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/browser/models/StitchOptions.ts#L6)
+Defined in: [browser/models/StitchOptions.ts:6](https://github.com/open-ordinal/open-ordinal-stitch/blob/d38962cb789f4775e408d6021fab719d9aa7686e/src/browser/models/StitchOptions.ts#L6)
 
 Represents the options for stitch operations.
 
@@ -12,7 +12,7 @@ Represents the options for stitch operations.
 
 > **new StitchOptions**(`options`): [`StitchOptions`](StitchOptions.md)
 
-Defined in: [browser/models/StitchOptions.ts:17](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/browser/models/StitchOptions.ts#L17)
+Defined in: [browser/models/StitchOptions.ts:17](https://github.com/open-ordinal/open-ordinal-stitch/blob/d38962cb789f4775e408d6021fab719d9aa7686e/src/browser/models/StitchOptions.ts#L17)
 
 Creates an instance of StitchOptions.
 
@@ -34,7 +34,7 @@ An object containing the input file path, output file path, and maximum size for
 
 > `optional` **sat**: `number`
 
-Defined in: [browser/models/StitchOptions.ts:7](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/browser/models/StitchOptions.ts#L7)
+Defined in: [browser/models/StitchOptions.ts:7](https://github.com/open-ordinal/open-ordinal-stitch/blob/d38962cb789f4775e408d6021fab719d9aa7686e/src/browser/models/StitchOptions.ts#L7)
 
 ***
 
@@ -42,7 +42,7 @@ Defined in: [browser/models/StitchOptions.ts:7](https://github.com/open-ordinal/
 
 > `optional` **parent**: `string`
 
-Defined in: [browser/models/StitchOptions.ts:8](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/browser/models/StitchOptions.ts#L8)
+Defined in: [browser/models/StitchOptions.ts:8](https://github.com/open-ordinal/open-ordinal-stitch/blob/d38962cb789f4775e408d6021fab719d9aa7686e/src/browser/models/StitchOptions.ts#L8)
 
 ***
 
@@ -50,7 +50,7 @@ Defined in: [browser/models/StitchOptions.ts:8](https://github.com/open-ordinal/
 
 > `optional` **parts**: `string`[]
 
-Defined in: [browser/models/StitchOptions.ts:9](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/browser/models/StitchOptions.ts#L9)
+Defined in: [browser/models/StitchOptions.ts:9](https://github.com/open-ordinal/open-ordinal-stitch/blob/d38962cb789f4775e408d6021fab719d9aa7686e/src/browser/models/StitchOptions.ts#L9)
 
 ***
 
@@ -58,4 +58,4 @@ Defined in: [browser/models/StitchOptions.ts:9](https://github.com/open-ordinal/
 
 > `optional` **contentType**: `string`
 
-Defined in: [browser/models/StitchOptions.ts:10](https://github.com/open-ordinal/open-ordinal-stitch/blob/0aafca5ac400fd4fbd267bbafa1a162a9dc20139/src/browser/models/StitchOptions.ts#L10)
+Defined in: [browser/models/StitchOptions.ts:10](https://github.com/open-ordinal/open-ordinal-stitch/blob/d38962cb789f4775e408d6021fab719d9aa7686e/src/browser/models/StitchOptions.ts#L10)

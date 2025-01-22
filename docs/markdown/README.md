@@ -6,7 +6,7 @@ Open Ordinal Stitch is a on-chain JavaScript library and command line tool desig
 
 The Open Ordinal Stitch has an on-chain resource (for use in ordinals), inscribed on sat [1690364215914349](https://ordinals.com/sat/1690364215914349).
 
-## Parts
+## Project Parts
 
 - **JavaScript Library/Module:** A general library you can integrate into own projects and a on-chain stitcher for use in ordinals.
 
