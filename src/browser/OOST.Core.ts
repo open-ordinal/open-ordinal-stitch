@@ -346,7 +346,7 @@ async function getInscriptionMetadata(inscriptionId = getId(), baseUrl = _baseUr
  * @returns {Promise<{ids: Array<string>, more: boolean, page: number}>} - A promise that resolves to an object containing the IDs, a boolean indicating if there are more pages, and the current page number.
  * @throws Will throw an error if the fetch operation fails or if the response is not OK.
  */
-export async function getSatPage(sat: number, page: number = 0, baseUrl: string = _baseUrl): Promise<any> {
+async function getSatPage(sat: number, page: number = 0, baseUrl: string = _baseUrl): Promise<any> {
     try {
         // Fetch the page data for the given SAT number and page number from the API endpoint
         const response = await fetch(prepareUrl(`/r/sat/${sat}/${page}`, baseUrl));
@@ -381,7 +381,7 @@ export async function getSatPage(sat: number, page: number = 0, baseUrl: string 
  * @param {string} [baseUrl=_baseUrl] - Optional base URL for the fetch. Defaults to _baseUrl.
  * @returns {Promise<string[]>} - A promise that resolves with an array of the IDs of the inscriptions.
  */
-export async function getSatAll(sat: number, baseUrl: string = _baseUrl): Promise<string[]> {
+async function getSatAll(sat: number, baseUrl: string = _baseUrl): Promise<string[]> {
     let ids: string[] = [];
     let more = true;
     let page = 0;
@@ -420,7 +420,7 @@ export async function getSatAll(sat: number, baseUrl: string = _baseUrl): Promis
  *                                                                         - more: A boolean indicating if there are more pages.
  *                                                                         - page: The current page number.
  */
-export async function getChildrenPage(inscriptionId: string = getId(), page: number = 0, baseUrl: string = _baseUrl): Promise<any> {
+async function getChildrenPage(inscriptionId: string = getId(), page: number = 0, baseUrl: string = _baseUrl): Promise<any> {
     let ids: string[] = []; // Initialize an empty array to store children IDs
     let more = true; // Flag to indicate if there are more pages
 
@@ -462,7 +462,7 @@ export async function getChildrenPage(inscriptionId: string = getId(), page: num
  * @param {string} [baseUrl=_baseUrl] - Optional baseUrl for the fetch.
  * @returns {Promise<Array<string>>} - A promise that resolves with an array of the IDs of the children.
  */
-export async function getChildrenAll(inscriptionId: string = getId(), baseUrl: string = _baseUrl): Promise<string[]> {
+async function getChildrenAll(inscriptionId: string = getId(), baseUrl: string = _baseUrl): Promise<string[]> {
     let ids: string[] = []; // Initialize an empty array to store children IDs
     let more = true; // Flag to indicate if there are more pages
     let page = 0; // Initialize the page number
