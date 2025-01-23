@@ -2,16 +2,12 @@
 
 # OOST (Browser)
 
-## Core
+## Classes
 
-- [getSatPage](functions/getSatPage.md)
-- [getSatAll](functions/getSatAll.md)
-- [getChildrenPage](functions/getChildrenPage.md)
-- [getChildrenAll](functions/getChildrenAll.md)
+- [StitchOptions](classes/StitchOptions.md)
 
-## Other
+## Main
 
 - [stitchAsArrayBuffer](functions/stitchAsArrayBuffer.md)
 - [stitchAsDataUrl](functions/stitchAsDataUrl.md)
 - [stitchAsString](functions/stitchAsString.md)
-- [StitchOptions](classes/StitchOptions.md)
