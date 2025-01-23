@@ -123,10 +123,6 @@ __webpack_require__.d(__webpack_exports__, {
   BootstrapMode: () => (/* reexport */ OOMD.BootstrapMode),
   StitchOptions: () => (/* reexport */ StitchOptions),
   __esModule: () => (/* reexport */ /* __esModule */true),
-  getChildrenAll: () => (/* reexport */ getChildrenAll),
-  getChildrenPage: () => (/* reexport */ getChildrenPage),
-  getSatAll: () => (/* reexport */ getSatAll),
-  getSatPage: () => (/* reexport */ getSatPage),
   stitchAsArrayBuffer: () => (/* reexport */ stitchAsArrayBuffer),
   stitchAsDataUrl: () => (/* reexport */ stitchAsDataUrl),
   stitchAsString: () => (/* reexport */ stitchAsString)
@@ -139,10 +135,6 @@ __webpack_require__.d(OOST_Core_namespaceObject, {
   BootstrapMode: () => (OOMD.BootstrapMode),
   StitchOptions: () => (StitchOptions),
   __esModule: () => (/* __esModule */true),
-  getChildrenAll: () => (getChildrenAll),
-  getChildrenPage: () => (getChildrenPage),
-  getSatAll: () => (getSatAll),
-  getSatPage: () => (getSatPage),
   stitchAsArrayBuffer: () => (stitchAsArrayBuffer),
   stitchAsDataUrl: () => (stitchAsDataUrl),
   stitchAsString: () => (stitchAsString)
@@ -3420,11 +3412,7 @@ window.ooST = OOST_Core_namespaceObject;
 var __webpack_exports__BootstrapMode = __webpack_exports__.BootstrapMode;
 var __webpack_exports__StitchOptions = __webpack_exports__.StitchOptions;
 var __webpack_exports___esModule = __webpack_exports__.__esModule;
-var __webpack_exports__getChildrenAll = __webpack_exports__.getChildrenAll;
-var __webpack_exports__getChildrenPage = __webpack_exports__.getChildrenPage;
-var __webpack_exports__getSatAll = __webpack_exports__.getSatAll;
-var __webpack_exports__getSatPage = __webpack_exports__.getSatPage;
 var __webpack_exports__stitchAsArrayBuffer = __webpack_exports__.stitchAsArrayBuffer;
 var __webpack_exports__stitchAsDataUrl = __webpack_exports__.stitchAsDataUrl;
 var __webpack_exports__stitchAsString = __webpack_exports__.stitchAsString;
-export { __webpack_exports__BootstrapMode as BootstrapMode, __webpack_exports__StitchOptions as StitchOptions, __webpack_exports___esModule as __esModule, __webpack_exports__getChildrenAll as getChildrenAll, __webpack_exports__getChildrenPage as getChildrenPage, __webpack_exports__getSatAll as getSatAll, __webpack_exports__getSatPage as getSatPage, __webpack_exports__stitchAsArrayBuffer as stitchAsArrayBuffer, __webpack_exports__stitchAsDataUrl as stitchAsDataUrl, __webpack_exports__stitchAsString as stitchAsString };
+export { __webpack_exports__BootstrapMode as BootstrapMode, __webpack_exports__StitchOptions as StitchOptions, __webpack_exports___esModule as __esModule, __webpack_exports__stitchAsArrayBuffer as stitchAsArrayBuffer, __webpack_exports__stitchAsDataUrl as stitchAsDataUrl, __webpack_exports__stitchAsString as stitchAsString };
