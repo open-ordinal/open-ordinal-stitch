@@ -4,7 +4,7 @@
 
 > **stitchAsString**(`options`): `Promise`\<`string` \| `undefined`\>
 
-Defined in: [browser/OOST.Core.ts:207](https://github.com/open-ordinal/open-ordinal-stitch/blob/d39067d3efb0c294894ed876141d2df8afa60670/src/browser/OOST.Core.ts#L207)
+Defined in: [browser/OOST.Core.ts:207](https://github.com/open-ordinal/open-ordinal-stitch/blob/862f19565e543bbcf64e91f6cfe4c59308e04c3a/src/browser/OOST.Core.ts#L207)
 
 Stitches the provided options into a string.
 
