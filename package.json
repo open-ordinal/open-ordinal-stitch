@@ -43,7 +43,7 @@
     "webpack-dev-server": "^5.1.0"
   },
   "dependencies": {
-    "@open-ordinal/metadata": "^0.5.2",
+    "@open-ordinal/metadata": "^0.5.3",
     "commander": "^12.1.0",
     "cors": "^2.8.5",
     "express": "^4.21.1",
