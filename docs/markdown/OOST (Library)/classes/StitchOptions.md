@@ -2,7 +2,7 @@
 
 # Class: StitchOptions
 
-Defined in: [cli/models/StitchOptions.ts:6](https://github.com/open-ordinal/open-ordinal-stitch/blob/862f19565e543bbcf64e91f6cfe4c59308e04c3a/src/cli/models/StitchOptions.ts#L6)
+Defined in: [cli/models/StitchOptions.ts:6](https://github.com/open-ordinal/open-ordinal-stitch/blob/827f87564b824cc51a6036c6df1893971614aa24/src/cli/models/StitchOptions.ts#L6)
 
 Represents the options for stitch operations.
 
@@ -12,7 +12,7 @@ Represents the options for stitch operations.
 
 > **new StitchOptions**(`options`): [`StitchOptions`](StitchOptions.md)
 
-Defined in: [cli/models/StitchOptions.ts:15](https://github.com/open-ordinal/open-ordinal-stitch/blob/862f19565e543bbcf64e91f6cfe4c59308e04c3a/src/cli/models/StitchOptions.ts#L15)
+Defined in: [cli/models/StitchOptions.ts:15](https://github.com/open-ordinal/open-ordinal-stitch/blob/827f87564b824cc51a6036c6df1893971614aa24/src/cli/models/StitchOptions.ts#L15)
 
 Creates an instance of StitchOptions.
 
@@ -34,7 +34,7 @@ An object containing the input file path, output file path, and maximum size for
 
 > `optional` **input**: `string`
 
-Defined in: [cli/models/StitchOptions.ts:7](https://github.com/open-ordinal/open-ordinal-stitch/blob/862f19565e543bbcf64e91f6cfe4c59308e04c3a/src/cli/models/StitchOptions.ts#L7)
+Defined in: [cli/models/StitchOptions.ts:7](https://github.com/open-ordinal/open-ordinal-stitch/blob/827f87564b824cc51a6036c6df1893971614aa24/src/cli/models/StitchOptions.ts#L7)
 
 ***
 
@@ -42,4 +42,4 @@ Defined in: [cli/models/StitchOptions.ts:7](https://github.com/open-ordinal/open
 
 > `optional` **output**: `string`
 
-Defined in: [cli/models/StitchOptions.ts:8](https://github.com/open-ordinal/open-ordinal-stitch/blob/862f19565e543bbcf64e91f6cfe4c59308e04c3a/src/cli/models/StitchOptions.ts#L8)
+Defined in: [cli/models/StitchOptions.ts:8](https://github.com/open-ordinal/open-ordinal-stitch/blob/827f87564b824cc51a6036c6df1893971614aa24/src/cli/models/StitchOptions.ts#L8)
