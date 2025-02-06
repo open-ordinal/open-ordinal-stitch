@@ -1,5 +1,5 @@
 /*! 
-* Open Ordinal Stitch 0.9.0
+* Open Ordinal Stitch 0.9.1
 */
 /******/ var __webpack_modules__ = ({
 

@@ -4,7 +4,7 @@
 
 > **stitch**(`options`): `Promise`\<`void`\>
 
-Defined in: [cli/OOST.ts:104](https://github.com/open-ordinal/open-ordinal-stitch/blob/d39067d3efb0c294894ed876141d2df8afa60670/src/cli/OOST.ts#L104)
+Defined in: [cli/OOST.ts:104](https://github.com/open-ordinal/open-ordinal-stitch/blob/827f87564b824cc51a6036c6df1893971614aa24/src/cli/OOST.ts#L104)
 
 Stitches multiple files together into a single output file based on the provided options.
 
